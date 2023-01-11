@@ -107,7 +107,7 @@
         margin: 2em auto;
     }
 
-    .botoes__ancora:active {
+    .botoes__ancora:hover {
         background-color: var(--azul);
     }
 
