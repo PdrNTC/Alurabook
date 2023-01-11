@@ -44,6 +44,10 @@ hr {
     .rodape__titulo {
         font-size: 24px;
     }
+    
+    .lista-rodape__link:hover {
+        color: var(--azul);
+    }
 }
 
 /* Criando layout responsivo para desktop */
