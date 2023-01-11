@@ -11,4 +11,5 @@
 
 ## Capturas de tela
 ![Screenshot da tela inicial do AluraBooks](https://imgur.com/6GsjQvJ.png)
-![Screenshot da tela inicial do AluraBooks - Tablet](https://uploaddeimagens.com.br/imagens/RTjGCg4)
+
+![Screenshot da tela inicial do AluraBooks - Tablet](https://uploaddeimagens.com.br/images/004/294/641/original/Layout-Tablet.png?1673447408)
